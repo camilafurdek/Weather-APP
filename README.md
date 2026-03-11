@@ -28,10 +28,10 @@ It allows you to search for the weather of any city by typing its name and press
 ---
 
 ## API Setup
+Put your api key in this line:
 
-Get a free API key from:
 ```bash
-api_key = "YOUR_API_KEY_HERE"
+api_key = "YOUR API KEY "
 ```
 
 ---
